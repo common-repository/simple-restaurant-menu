@@ -1,0 +1,4 @@
+body.post-type-srm_menu_item .updated.notice-success a,
+body.post-type-srm_menu .updated.notice-success a {
+	display: none !important;
+}

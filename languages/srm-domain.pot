@@ -1,0 +1,266 @@
+#, fuzzy
+msgid ""
+msgstr ""
+"Plural-Forms: nplurals=INTEGER; plural=EXPRESSION;\n"
+"Project-Id-Version: Simple Restaurant Menu\n"
+"POT-Creation-Date: 2016-10-30 16:20+0200\n"
+"PO-Revision-Date: 2016-10-30 16:20+0200\n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 1.8.10\n"
+"X-Poedit-Basepath: ..\n"
+"X-Poedit-WPHeader: simple-restaurant-menu.php\n"
+"X-Poedit-SourceCharset: UTF-8\n"
+"X-Poedit-KeywordsList: __;_e;_n:1,2;_x:1,2c;_ex:1,2c;_nx:4c,1,2;esc_attr__;"
+"esc_attr_e;esc_attr_x:1,2c;esc_html__;esc_html_e;esc_html_x:1,2c;_n_noop:1,2;"
+"_nx_noop:3c,1,2;__ngettext_noop:1,2\n"
+"X-Poedit-SearchPath-0: .\n"
+"X-Poedit-SearchPathExcluded-0: *.js\n"
+
+#: includes/srm-cpts-columns.php:15
+msgid "Shortcode"
+msgstr ""
+
+#: includes/srm-cpts-columns.php:34
+msgid "Title"
+msgstr ""
+
+#: includes/srm-cpts-columns.php:35
+msgid "Featured Image"
+msgstr ""
+
+#: includes/srm-cpts-columns.php:36 includes/srm-cpts-columns.php:211
+#: includes/srm-cpts.php:18
+msgid "Menu"
+msgstr ""
+
+#: includes/srm-cpts-columns.php:37
+msgid "Iten Order"
+msgstr ""
+
+#: includes/srm-cpts-columns.php:38
+msgid "Upload Date"
+msgstr ""
+
+#: includes/srm-cpts-columns.php:168
+msgid "<strong>No menu was selected</strong>"
+msgstr ""
+
+#: includes/srm-cpts.php:17 includes/srm-cpts.php:30
+#: includes/srm-settings.php:9 includes/srm-settings.php:10
+msgid "Menus"
+msgstr ""
+
+#: includes/srm-cpts.php:19
+msgid "My Menu"
+msgstr ""
+
+#: includes/srm-cpts.php:20
+msgid "All Menus"
+msgstr ""
+
+#: includes/srm-cpts.php:21 includes/srm-cpts.php:22
+msgid "Add New Menu"
+msgstr ""
+
+#: includes/srm-cpts.php:23
+msgid "Edit Menu"
+msgstr ""
+
+#: includes/srm-cpts.php:24
+msgid "New Menu"
+msgstr ""
+
+#: includes/srm-cpts.php:25
+msgid "View Menu"
+msgstr ""
+
+#: includes/srm-cpts.php:26
+msgid "Search Menus"
+msgstr ""
+
+#: includes/srm-cpts.php:53 includes/srm-cpts.php:55 includes/srm-cpts.php:66
+#: includes/srm-settings.php:20 includes/srm-settings.php:21
+msgid "Menu Items"
+msgstr ""
+
+#: includes/srm-cpts.php:54
+msgid "Menu Item"
+msgstr ""
+
+#: includes/srm-cpts.php:56
+msgid "All Menu Items"
+msgstr ""
+
+#: includes/srm-cpts.php:57 includes/srm-cpts.php:58
+msgid "Add New Menu Item"
+msgstr ""
+
+#: includes/srm-cpts.php:59
+msgid "Edit Menu Item"
+msgstr ""
+
+#: includes/srm-cpts.php:60
+msgid "New Menu Item"
+msgstr ""
+
+#: includes/srm-cpts.php:61
+msgid "View Menu Item"
+msgstr ""
+
+#: includes/srm-cpts.php:62
+msgid "Search Menu Items"
+msgstr ""
+
+#: includes/srm-menu-item-meta.php:14
+msgid "Menu Item Details"
+msgstr ""
+
+#: includes/srm-menu-item-meta.php:48
+msgid "Item price"
+msgstr ""
+
+#: includes/srm-menu-item-meta.php:61
+msgid "Categorize the menu item"
+msgstr ""
+
+#: includes/srm-menu-item-meta.php:67
+msgid "-- Selet a Menu --"
+msgstr ""
+
+#: includes/srm-menu-item-meta.php:101
+msgid "Item order"
+msgstr ""
+
+#: includes/srm-menu-meta.php:15
+msgid "Menu Options"
+msgstr ""
+
+#: includes/srm-menu-meta.php:40
+msgid "Hide the title ?"
+msgstr ""
+
+#: includes/srm-menu-meta.php:53
+msgid "Column layout"
+msgstr ""
+
+#: includes/srm-menu-meta.php:59
+msgid "one-column"
+msgstr ""
+
+#: includes/srm-menu-meta.php:60
+msgid "two-columns"
+msgstr ""
+
+#: includes/srm-menu-meta.php:64
+msgid "-- Selet a Layout --"
+msgstr ""
+
+#: includes/srm-settings.php:29 includes/srm-settings.php:30
+msgid "Settings"
+msgstr ""
+
+#: includes/srm-settings.php:55
+msgid "Simple Restaurant Menu Settings"
+msgstr ""
+
+#: includes/srm-settings.php:65
+msgid "Currency Options"
+msgstr ""
+
+#: includes/srm-settings.php:69
+msgid "Currency symbol"
+msgstr ""
+
+#: includes/srm-settings.php:71
+msgid "Enter the currency symbol you would like to display in your menu."
+msgstr ""
+
+#: includes/srm-settings.php:76
+msgid "Styling Options"
+msgstr ""
+
+#: includes/srm-settings.php:80
+msgid "Disable CSS ?"
+msgstr ""
+
+#: includes/srm-settings.php:82
+msgid "Click this option to disable the plugin's CSS."
+msgstr ""
+
+#: includes/srm-settings.php:87
+msgid "Custom CSS"
+msgstr ""
+
+#: includes/srm-settings.php:89
+msgid "Enter your custom CSS here <strong>(Optional)</strong>"
+msgstr ""
+
+#: includes/srm-settings.php:94
+msgid "Image Options"
+msgstr ""
+
+#: includes/srm-settings.php:98
+msgid "Disable thumbnail images ?"
+msgstr ""
+
+#: includes/srm-settings.php:100
+msgid "Click this option to disable thumbnail pictures for your menu items."
+msgstr ""
+
+#: includes/srm-settings.php:105
+msgid "Disable image pop-ups ?"
+msgstr ""
+
+#: includes/srm-settings.php:107
+msgid "Click this option to disable image pop-ups for your menu items."
+msgstr ""
+
+#: includes/srm-settings.php:112
+msgid "Menu item image width"
+msgstr ""
+
+#: includes/srm-settings.php:114
+msgid ""
+"The width in pixels of menu item thumbnails. Leave this field empty to "
+"preserve the default thumbnail size.  Requires width and height to be set."
+msgstr ""
+
+#: includes/srm-settings.php:120
+msgid "Menu item image height"
+msgstr ""
+
+#: includes/srm-settings.php:122
+msgid ""
+"The height in pixels of menu item thumbnails. Leave this field empty to "
+"preserve the default thumbnail size.  Requires width and height to be set."
+msgstr ""
+
+#: includes/srm-settings.php:130
+msgid "Save Changes"
+msgstr ""
+
+#: includes/srm-shortcode.php:174
+msgid "<p>Sorry, but the menu was not found.</p>"
+msgstr ""
+
+#. Plugin Name of the plugin/theme
+msgid "Simple Restaurant Menu"
+msgstr ""
+
+#. Plugin URI of the plugin/theme
+#. Author URI of the plugin/theme
+msgid "http://line44.com"
+msgstr ""
+
+#. Description of the plugin/theme
+msgid ""
+"The simplest solution to display beautiful restaurant menus in WordPress."
+msgstr ""
+
+#. Author of the plugin/theme
+msgid "William Hagerty"
+msgstr ""

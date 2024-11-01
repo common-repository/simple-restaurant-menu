@@ -1,0 +1,92 @@
+/* Clear Fix */
+
+.srm-clearfix:before {
+	content: " ";
+	display: table;
+}
+
+.srm-clearfix:after {
+	clear: both;
+	content: " ";
+	display: table;
+}
+
+/* SRM Menu */
+
+.srm-menu {
+    
+}
+  
+.srm-menu-title {
+      text-align: center;
+}
+
+/* SRM Menu Item */
+  
+.srm-menu-items {
+	margin-left: 0 !important;
+	margin-bottom: 40px  !important;
+}
+      
+ul li.srm-menu-item {
+	list-style: none !important;
+}
+
+/* 1 Column Layout */
+
+.one-column li.srm-menu-item {
+	width: 100%;      
+	padding: 0 !important;
+	margin: 0 !important;
+	margin-bottom: 20px !important;
+}
+
+/* 2 Columns Layout */
+    
+.two-columns li.srm-menu-item {
+	width: 50%;     
+  	float: left;
+  	padding: 0 !important;
+  	margin: 0 !important;
+  	margin-bottom: 20px !important;
+}
+
+/* Both 1 & 2 Columns */
+
+      
+.srm-menu-item-image {
+    float: left;
+  	margin-right: 2.5%;
+  	line-height: 0;
+}
+.srm-menu-item-image img {
+	margin: 0;
+  	border: 1px solid #dfdfdf;
+    padding: 2px
+  }
+      
+.srm-menu-item-text {
+	float: left;          
+}
+
+.srm-menu-item-text .srm-menu-item-title {
+    margin-bottom: 6px;
+}
+  
+.srm-menu-item-text .srm-price {
+          
+}
+        
+.srm-menu-item-text .srm-content {
+              
+}
+
+
+@media only screen and (max-width: 1023px) {
+
+
+.two-columns li.srm-menu-item  {
+	width: 100%;
+}
+
+}
